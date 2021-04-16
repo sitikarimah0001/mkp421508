@@ -1,0 +1,5 @@
+<br>Siti Karimah </br>
+<br>1821500058</br>
+_Resume Dinamical System and Its Application_
+
+**sistem yang menggambarkan sesuatu yang dinamis yang berubah waktu tapi walaupun namanya dan ekonomis sistem dinamik yang di pakai pada prakteknya di modelkan yang dianalisa tidak selalu fungsi dari waktu saja tapi berfungsi dari ruang yang di analisa seakan dia fungsi. sistem dinamik(teori)  dari perkembangannya lebih dikenal dengan teorinya dari bahasanya  sendiri sistem dinamis. jadi, sistem yang menggambarkan dinamis yang berubah terhadap waktu. dinamika sistem yang pada prakteknya yang di analisa tidak selalu fungsi dari waktu, tapi bisa juga dari ruang. yang kita analisa seakan-akan itu fungsinya. contoh : sudut simpang bandul dari sudut tegak lurus sebagai peta maka prinsip newton kita bisa mendapatkannya dengan F= gaya itu sama dengan massa dikalikan**
